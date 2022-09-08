@@ -9,3 +9,12 @@
   text-align: center;
   color: white;
 }
+body {
+  height: auto;
+  margin: 0;
+  background-image: url("https://img.freepik.com/free-vector/people-business-meeting-office-conference-room-concept-teamwork-communication-company-brainstorming-discussion-team-vector-flat-illustration-people-with-speech-bubbles_107791-10457.jpg?w=1060&t=st=1662632415~exp=1662633015~hmac=a9f7cd98ddd3d39a84e5bc4da5fa5d0cba1d5df9b2d312c4fc1d71e6b9508d5e");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 50;
+}

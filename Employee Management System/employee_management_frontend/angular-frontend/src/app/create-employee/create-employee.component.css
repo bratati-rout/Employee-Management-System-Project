@@ -6,3 +6,16 @@ button {
   margin: 15px;
   margin-left: 0;
 }
+.container {
+  background: linear-gradient(
+    rgba(138, 198, 232, 0.41),
+    rgba(49, 89, 108, 0.56),
+    rgba(161, 183, 187, 0.5)
+  );
+
+  padding-bottom: 15px;
+}
+#text {
+  font-weight: 500;
+  color: rgb(20, 3, 3);
+}
